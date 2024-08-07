@@ -1,0 +1,8 @@
+[
+    {"id":1,"name":"Weapon_WuQie","icon":"Icon+Weapon_WuQie","type":1,"tips":"五星限定武器"},
+    {"id":2,"name":"Weapon_TianKongZhiRen","icon":"Icon+Weapon_TianKongZhiRen","type":1,"tips":"五星普通武器"},
+    {"id":3,"name":"Sheng_mxjZhiHua","icon":"Icon+Sheng_mxjZhiHua","type":2,"tips":"提升血量"},
+    {"id":4,"name":"Sheng_mxjYuMao","icon":"Icon+Sheng_mxjYuMao","type":2,"tips":"提升攻击"},
+    {"id":5,"name":"Food_TianTianHuaNiangJi","icon":"Icon+Food_TianTianHuaNiangJi","type":3,"tips":"加血"},
+    {"id":6,"name":"Food_XianTiaoQiang","icon":"Icon+Food_XianTiaoQiang","type":3,"tips":"加攻击"}
+]
